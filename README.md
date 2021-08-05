@@ -1,2 +1,2 @@
-# alacritty
-alacritty configuration
+# i3
+i3 configuration
