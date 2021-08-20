@@ -420,7 +420,7 @@ colors:
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
 shell:
-  program: /home/frajus/.cargo/bin/nu
+  program: /bin/bash
 #  args:
 #    - --login
 
