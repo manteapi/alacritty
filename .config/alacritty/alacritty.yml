@@ -21,6 +21,12 @@ font:
 
 background_opacity: 1.0
 
+window:
+  padding:
+    x: 0
+    y: 0
+  dynamic_padding: true
+
 # Colors
 colors:
   primary:
