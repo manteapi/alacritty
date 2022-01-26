@@ -19,8 +19,6 @@ font:
     x: 0
     y: 0
 
-background_opacity: 1.0
-
 window:
   padding:
     x: 0
