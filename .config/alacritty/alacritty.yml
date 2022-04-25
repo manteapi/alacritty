@@ -12,7 +12,7 @@ font:
     family: Droid Sans Mono Nerd Font
     style: Italic
 
-  size: 10.0
+  size: 14.0
 
   # extra space around each character.
   offset:
